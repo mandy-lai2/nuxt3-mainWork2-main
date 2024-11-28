@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    Page: 首頁
+    <NuxtPage></NuxtPage>
   
   </div>
 </template>

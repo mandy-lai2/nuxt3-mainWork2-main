@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    Page: 首頁
+    Page: 登入
   
   </div>
 </template>

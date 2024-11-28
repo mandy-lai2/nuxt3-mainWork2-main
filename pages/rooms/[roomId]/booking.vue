@@ -2,8 +2,8 @@
 
 <template>
   <div>
-    Page: 首頁
-  
+    Page: 客房預約
+
   </div>
 </template>
 

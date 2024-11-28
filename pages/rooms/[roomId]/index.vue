@@ -2,7 +2,8 @@
 
 <template>
   <div>
-    Page: 首頁
+    Page: 客房詳細資料
+
   
   </div>
 </template>
