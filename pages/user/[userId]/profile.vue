@@ -1,6 +1,6 @@
 <script setup>
 </script>
 <template>
-  <div>會員 - 修改資料</div>
+  <h3>會員 - 修改資料</h3>
 </template>
 <style scoped></style>

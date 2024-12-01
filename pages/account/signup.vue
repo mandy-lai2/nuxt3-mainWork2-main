@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    Page: 註冊
+   <h3> Page: 註冊</h3>
   
   </div>
 </template>

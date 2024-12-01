@@ -1,6 +1,6 @@
 <script setup>
 </script>
 <template>
-  <div>會員 - 訂單查詢</div>
+  <h3>會員 - 訂單查詢</h3>
 </template>
 <style scoped></style>

@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    Page: 登入
+    <h3>Page: 登入</h3>
   
   </div>
 </template>
